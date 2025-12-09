@@ -1,16 +1,43 @@
-# flutter_application_1
+# 🌍 TravelBuddy Immersive — Flutter App  
+A modern, animated, immersive travel application built with Flutter.  
+Includes itinerary generation, animated weather, booking flow, user dashboard, theme toggling, and a bilingual travel chatbot.
 
-A new Flutter project.
+---
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+### 🧭 AI Travel Itinerary Generator
+- Auto-generates customizable travel plans  
+- Fast and simple UI  
+- Animated result preview  
 
-A few resources to get you started if this is your first Flutter project:
+### 🌤 Animated Weather Widget
+- Rotating sun animation  
+- Parallax clouds (Lottie)  
+- Automatically adapts to light/dark mode  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🌓 Dark / Light Mode Toggle
+- Smooth animated theme transitions  
+- Global theme sync  
+- Simple implementation ready for persistence  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🧑‍✈️ User Profile Dashboard
+- Avatar glow animation  
+- Travel stats display  
+- Clean, modern user card layout  
+
+### 🏨 Booking Screen
+- Date range picker  
+- Guest increment/decrement  
+- Auto price calculator  
+- Confirmation popup with animation  
+
+### 💬 Chatbot (Nepali + English)
+- Bilingual travel assistant  
+- Smart offline fallback responses  
+- Optional full AI integration (OpenAI, custom API)
+
+---
+
+## 📂 Project Structure
+
